@@ -1,0 +1,13 @@
+app-win32-x64/
+.DS_Store
+node_modules/
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npmrc
